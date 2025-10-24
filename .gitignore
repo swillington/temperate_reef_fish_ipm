@@ -50,3 +50,6 @@ rsconnect/
 
 # ignore csv files
 *.csv
+
+# ignore png files
+*.png
